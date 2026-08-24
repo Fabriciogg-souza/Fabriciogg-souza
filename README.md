@@ -70,22 +70,13 @@ Meu objetivo é construir uma base sólida em **Java**, evoluir para **Spring Bo
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabriciogg-souza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciogg-souza&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📈 Minhas contribuições
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Fabriciogg-souza\&theme=tokyonight)
-
+<p align="center">
+  <a href="https://github.com/Fabriciogg-souza">
+    <img src="https://komarev.com/ghpvc/?username=Fabriciogg-souza&color=blue&style=flat-square&label=Profile+Views" />
+  </a>
+</p>
 ---
 
 ## 📫 Contato
