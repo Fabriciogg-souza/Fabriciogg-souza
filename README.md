@@ -1,23 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4B0082,100:BF00FF&height=280&section=header&text=FABR%C3%8DCIO%20GIOVANE&fontSize=58&fontColor=BF00FF&fontAlignY=40&desc=BACKEND%20DEVELOPER%20%7C%20JAVA%20%7C%20SPRING%20BOOT&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<br>
+# FABRÍCIO GIOVANE
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=3000&pause=1000&color=BF00FF&center=true&vCenter=true&width=650&lines=DISCIPLINA+ANTES+DA+MOTIVA%C3%87%C3%83O;FOCO+INABAL%C3%81VEL.+EXECU%C3%87%C3%83O+DI%C3%81RIA;CONSTRUINDO+SISTEMAS+DE+ALTA+PERFORMANCE;BACKEND+DEVELOPER+EM+ASCENS%C3%83O" alt="Typing SVG" />
 
-<br><br>
+**BACKEND DEVELOPER | JAVA | SPRING BOOT**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fabriciogg-souza&color=BF00FF&style=for-the-badge&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-EM%20ASCENS%C3%83O-000000?style=for-the-badge&labelColor=BF00FF&color=000000)
 
 </div>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
 
 ## `⚡` SOBRE MIM
 
@@ -51,10 +43,6 @@ trajetória:   Suporte técnico → Backend de alta performance
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
 ## `🛠` ARSENAL TÉCNICO
 
 <div align="center">
@@ -81,10 +69,6 @@ trajetória:   Suporte técnico → Backend de alta performance
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
 ## `📚` ROADMAP JAVA
 
 ```text
@@ -109,10 +93,6 @@ JAVA
 
 > **Objetivo:** construir uma base sólida em Java, evoluir para Spring Boot e entregar APIs e aplicações backend completas — do zero à produção.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
 ## `📊` STATS & ANÁLISES
 
 <div align="center">
@@ -122,17 +102,13 @@ JAVA
 
 <br><br>
 
+**Distribuição de contribuições por linguagem**
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciogg-souza&layout=pie&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=BF00FF&text_color=FFFFFF&langs_count=8" width="55%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabriciogg-souza&theme=react-dark&bg_color=0D0D0D&color=BF00FF&line=BF00FF&point=FFFFFF&area_color=8A2BE2&hide_border=true" width="90%"/>
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
+> Nota: o GitHub não oferece um gráfico de pizza nativo para commits ao longo do tempo — por isso o gráfico de contribuições acima mostra a distribuição por linguagem, que é a forma "pizza" mais fiel de representar onde sua energia de código está sendo investida. Se preferir, posso manter também a linha do tempo (activity graph) como complemento.
 
 ## `🏆` TROPHY ROOM
 
@@ -141,10 +117,6 @@ JAVA
 <img src="https://github-profile-trophy.vercel.app/?username=Fabriciogg-souza&theme=algolia&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15" width="90%"/>
 
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
 
 ## `🐍` CONSTRUÇÃO DIÁRIA
 
@@ -156,10 +128,6 @@ JAVA
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
 ## `📫` CONECTA COMIGO
 
 <div align="center">
@@ -169,12 +137,9 @@ JAVA
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3500&pause=1200&color=BF00FF&center=true&vCenter=true&width=560&lines=SEM+ATALHOS.+APENAS+TRABALHO+CONSISTENTE;CADA+COMMIT+%C3%89+UM+PASSO+RUMO+AO+ALTO+N%C3%8DVEL" alt="Footer Typing" />
+**SEM ATALHOS. APENAS TRABALHO CONSISTENTE.**
+**CADA COMMIT É UM PASSO RUMO AO ALTO NÍVEL.**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF00FF,50:4B0082,100:000000&height=120&section=footer" width="100%"/>
