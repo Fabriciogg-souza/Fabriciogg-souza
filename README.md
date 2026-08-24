@@ -1,100 +1,171 @@
-# 👋 Olá, eu sou o Fabrício Giovane!
+<div align="center">
 
-### 💻 Estudante de Engenharia de Software | Desenvolvedor Java
+# 𖤐 FABRÍCIO GIOVANE 𖤐
 
-Sou estudante de **Engenharia de Software** e atualmente estou focado em me desenvolver como **desenvolvedor Backend com Java**.
+### `software engineering student // java backend developer`
 
-Tenho interesse em desenvolvimento de sistemas, APIs, bancos de dados e boas práticas de programação. Busco constantemente transformar o conhecimento adquirido nos estudos em projetos práticos.
-
----
-
-## 🚀 Sobre mim
-
-* 🎓 Estudante de **Engenharia de Software**
-* ☕ Focado em **Java e desenvolvimento Backend**
-* 💼 Atualmente trabalho como **Analista de Suporte**
-* 🧠 Estudando **Programação Orientada a Objetos e Estruturas de Dados**
-* 🌱 Aprendendo **Spring Boot, APIs REST, SQL e JPA/Hibernate**
-* 🔧 Experiência com suporte técnico, sistemas, integrações e resolução de problemas
-* 📚 Sempre buscando aprender e evoluir na área de desenvolvimento
-
----
-
-## 🛠️ Tecnologias
-
-### ☕ Backend & Banco de Dados
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🔧 Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
-### 🌐 Conhecimentos anteriores
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge\&logo=swift\&logoColor=white)
-
----
-
-## 📚 Atualmente estudando
-
-```text
-Java
-│
-├── Fundamentos
-├── Programação Orientada a Objetos
-├── Collections
-├── Generics
-├── Stream API
-├── Exceptions
-├── Records
-├── JDBC
-├── SQL
-│
-└── Spring Boot
-     ├── APIs REST
-     ├── JPA / Hibernate
-     ├── Spring Security
-     └── Testes
-```
-
-Meu objetivo é construir uma base sólida em **Java**, evoluir para **Spring Boot** e desenvolver APIs e aplicações backend completas.
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <a href="https://github.com/Fabriciogg-souza">
-    <img src="https://komarev.com/ghpvc/?username=Fabriciogg-souza&color=blue&style=flat-square&label=Profile+Views" />
-  </a>
-</p>
----
-
-## 📫 Contato
-
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Fabriciogg--souza-181717?style=for-the-badge\&logo=github)](https://github.com/Fabriciogg-souza)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:000000&height=120&section=header&text=&fontSize=0">
 
 </div>
+
+```text
+███████╗ █████╗ ██████╗ ██████╗ ██╗ ██████╗██╗ ██████╗
+██╔════╝██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║██╔════╝
+█████╗  ███████║██████╔╝██████╔╝██║██║     ██║██║
+██╔══╝  ██╔══██║██╔══██╗██╔══██╗██║██║     ██║██║
+██║     ██║  ██║██║  ██║██║  ██║██║╚██████╗██║╚██████╗
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝ ╚═════╝
+```
+
+> `building things. breaking things. learning how they work.`
+
+---
+
+## 𖤐 WHO AM I?
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  > software engineering student              │
+│  > backend enthusiast                        │
+│  > java enjoyer ☕                            │
+│  > problem solver                            │
+│  > always learning                            │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+I'm **Fabrício**, a Software Engineering student focused on becoming a **Java Backend Developer**.
+
+I like understanding how things work behind the scenes and turning ideas into actual software.
+
+Currently going deep into Java, backend development and software architecture.
+
+---
+
+## ☕ STACK
+
+### `CURRENTLY LEARNING`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,maven" />
+</p>
+
+```text
+JAVA
+ ├── OOP
+ ├── Collections
+ ├── Generics
+ ├── Stream API
+ ├── Exceptions
+ ├── Records
+ └── JDBC
+
+SPRING
+ ├── Spring Boot
+ ├── REST APIs
+ ├── JPA / Hibernate
+ ├── Spring Security
+ └── Testing
+```
+
+### `PREVIOUSLY WORKED WITH`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,swift,supabase" />
+</p>
+
+---
+
+## 🕷️ CURRENT MISSION
+
+```text
+[████████████████░░░░] 80%
+
+become a better backend developer.
+```
+
+```text
+01  →  Master Java
+02  →  Build real APIs
+03  →  Learn Spring deeply
+04  →  Understand databases
+05  →  Build complete projects
+06  →  Keep breaking things
+07  →  Fix them
+```
+
+---
+
+## 🎥 SOMEWHERE BETWEEN CODE & CHAOS
+
+<div align="center">
+
+<a href="https://www.youtube.com/">
+<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" width="500">
+</a>
+
+### `▶ click to watch`
+
+</div>
+
+> Replace the video above with a YouTube video that represents you — coding, music, skate, street footage, anime, gameplay, anything that fits your aesthetic.
+
+---
+
+## 🖥️ DESKTOP
+
+```text
+OS          → Windows
+EDITOR      → VS Code
+LANGUAGE    → Java
+DATABASE    → SQL
+VERSION     → Git
+ENVIRONMENT → caffeine.exe
+```
+
+---
+
+## 📂 PROJECTS
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  01 / projects                              │
+│      └── coming soon...                     │
+│                                              │
+│  02 / experiments                           │
+│      └── learning by building               │
+│                                              │
+│  03 / random stuff                          │
+│      └── probably shouldn't work            │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+Check out my repositories:
+
+**→ [github.com/Fabriciogg-souza](https://github.com/Fabriciogg-souza)**
+
+---
+
+## 𖤐 PHILOSOPHY
+
+> `don't just learn the syntax. understand the machine.`
 
 ---
 
 <div align="center">
 
-### 🚀 Em constante evolução.
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Estudando. Construindo. Evoluindo.**
+        FABRÍCIO GIOVANE
+        CODE // MUSIC // CHAOS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+### 🥀 `still learning. still building.`
 
 </div>
