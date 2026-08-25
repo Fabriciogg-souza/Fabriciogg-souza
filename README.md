@@ -22,7 +22,7 @@
 ## `⚡` SOBRE MIM
 
 ```yaml
-nome:        Fabrício Giovane
+nome:        Fabricio Giovane
 formação:    Engenharia de Software
 foco:        Desenvolvedor Backend Java
 trabalho:    Analista de Suporte
