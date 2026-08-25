@@ -150,7 +150,7 @@ JAVA
 </p>
 
 
-## `📫` CONECTA COMIGO
+## `📫` CONECTE-SE COMIGO
 
 
 <div align="center">
