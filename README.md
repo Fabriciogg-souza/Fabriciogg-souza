@@ -83,7 +83,7 @@ trajetória:  Suporte técnico → Backend de alta performance
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
   </a>
 </p>
 
@@ -93,7 +93,7 @@ trajetória:  Suporte técnico → Backend de alta performance
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=BF00FF)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=BF00FF)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=BF00FF)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=BF00FF)
+
 
 <br><br>
 
